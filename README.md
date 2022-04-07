@@ -4,8 +4,8 @@
 
 <br>
 
-<p align="right"> <h3>Visitantes :-</h3> <img src="https://komarev.com/ghpvc/?username=ravokthc&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ravokthc" /> 
+<p align="right"> <h3>Visitantes :-</h3> <img src="https://komarev.com/ghpvc/?username=samuelsahali&label=Profile%20views&color=0e75b6&style=flat"
+    alt="samuelsahali" /> 
   </p>
 
 <br>
@@ -76,22 +76,22 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ravokthc&show_icons=true&locale=en&layout=compact"
-    alt="ravokthc" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsahali&show_icons=true&locale=en&layout=compact"
+    alt="samuelsahali" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravokthc&show_icons=true&locale=en"
-    alt="ravokthc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelsahali&show_icons=true&locale=en"
+    alt="samuelsahali" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravokthc&" alt="ravokthc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelsahali&" alt="ravokthc" /></p>
 
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=ravokthc" alt="adam-pw" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=samuelsahali" alt="adam-pw" /></a> </p>
 
 
 
