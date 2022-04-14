@@ -77,16 +77,16 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=centralcleo&show_icons=true&locale=en&layout=compact"
-    alt="samuelsahali" /></p>
+    alt="centralcleo" /></p>
 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=centralcleo&show_icons=true&locale=en"
-    alt="samuelsahali" /></p>
+    alt="centralcleo" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=centralcleo&" alt="ravokthc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=centralcleo&" alt="centralcleo" /></p>
 
 <br>
 <h3>Trophies :-</h3>
