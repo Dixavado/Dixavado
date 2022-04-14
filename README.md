@@ -76,22 +76,22 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsahali&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=centralcleo&show_icons=true&locale=en&layout=compact"
     alt="samuelsahali" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelsahali&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=centralcleo&show_icons=true&locale=en"
     alt="samuelsahali" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelsahali&" alt="ravokthc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=centralcleo&" alt="ravokthc" /></p>
 
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=samuelsahali" alt="adam-pw" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=centralcleo" alt="adam-pw" /></a> </p>
 
 
 
