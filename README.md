@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samuel Sahali 🇧🇷 x 🇪🇬 </h1>
+<h1 align="center">Hi 👋, I'm CCLEO</h1>
 
-<h3 align="center">Owner and Ceo CCleo 🔐 and Seth Burguer 🍔</h3>
+<h3 align="center">Owner and Ceo CCleo 🔐</h3>
 
 <br>
 
