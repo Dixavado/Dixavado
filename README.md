@@ -20,32 +20,29 @@
 
 
 
-[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:voko.aleksey@gmail.com)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/voko_aleksey)
-[<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
-[<img src="https://image.winudf.com/v2/image1/cnUuaGFicmFoYWJyX2ljb25fMTU1NTE2NzQwMF8wMTQ/icon.png?w=&fakeurl=1" alt="stackoverflow" width="53">](https://freelance.habr.com/freelancers/Voko_Aleksey)
+[<img src="https://cdn.iconscout.com/icon/free/png-64/whatsapp-2254775-1881161.png" alt="whatsapp" width="65">](mailto:voko.aleksey@gmail.com)
+[<img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/telegram-1867901-1580057.png" alt="telegram" width="50">](https://t.me/voko_aleksey)
+[<img src="https://cdn.iconscout.com/icon/free/png-64/discord-2474816-2056055.png" alt="discord" width="50">](https://t.me/oldcodersclub)
+[<img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/website-2754778-2292714.png" alt="site" width="50">](http://ccleo.online)
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=centralcleo&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centralcleo&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![trophy](https://github-profile-trophy.vercel.app/?username=centralcleo&theme=onestar&no-frame=true&column=3&row=2)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=centralcleo&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
 [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
 
 [![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
-[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=repositories&q=&type=&language=&sort=stargazers)
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=followers)
-[<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
+[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/centralcleo?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/centralcleo?tab=repositories&q=&type=&language=&sort=stargazers)
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/centralcleo?&logoColor=red&style=social">](https://github.com/centralcleo?tab=followers)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/centralcleo/TranslatorSelenium?logoColor=red&style=social">](https://github.com/centralcleo/TranslatorSelenium/network/members)
 
 ------
 
-[Aleksey-Voko](https://github.com/Aleksey-Voko)
-
-Last Edited on: 16/11/2021
+[Central-Cleo](https://github.com/centralcleo)
