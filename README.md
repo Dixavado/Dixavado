@@ -29,12 +29,12 @@ object **ARABE** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/Dixavado">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dixavado&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dixavado&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/Dixavado">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dixavado&show_icons=true&theme=dracula&line_height=27" alt="**DII XAVADO** github stats"/>
 </a>
 
 [website]: https://ccleo.host
